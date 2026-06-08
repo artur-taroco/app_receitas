@@ -38,7 +38,7 @@ class AboutScreen extends StatelessWidget {
             SizedBox(height: 20),
 
             Text(
-              "Integrantes:\nArtur Taroco",
+              "Integrantes:\nArtur Taroco\n Marcelo Nascimento\n Leonardo Munhoz\n Gabriel Lima",
               textAlign: TextAlign.center,
             ),
           ],
